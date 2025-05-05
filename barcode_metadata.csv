@@ -1,3 +1,3 @@
-barcode_id,,serial_number,location,description
-9780201379624,,MAC124,Perlis,Unit D
-9780201379334,MAC123,Johor,Unit B
+"barcode_id,model_name,serial_number,logo_class,defect_status,location,description",model_name,serial_number,location,description
+"9780201379624,RFX-200X,MAC999,konica,OK,Penang,Buku Panduan",,,,
+"2345678901,MXR-310A,MAC321,samsung,OK,Kuala Lumpur,Unit B",,,,
