@@ -1,0 +1,3 @@
+0 PowerChina
+1 PowerJapan
+2 PowerUK
