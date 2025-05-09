@@ -1,3 +1,4 @@
-0 PowerChina
-1 PowerJapan
-2 PowerUK
+0 MadeInUK
+1 MadeInChina
+2 MadeInJapan
+3 MadeInMalaysia 
