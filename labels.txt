@@ -1,4 +1,0 @@
-0 MadeInUK
-1 MadeInChina
-2 MadeInJapan
-3 MadeInMalaysia 
