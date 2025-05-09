@@ -2,9 +2,9 @@ import cv2
 import os
 
 # === Tetapan user ===
-label_name = 'Malaysia'  # Tukar ke 'UK' untuk label lain
+label_name = 'PowerChina'  # Tukar ke 'UK' untuk label lain
 save_dir = f'dataset/{label_name}'  # Folder simpan gambar
-max_images = 2000  # Berapa banyak gambar nak ambil
+max_images = 1000  # Berapa banyak gambar nak ambil
 
 # === Buat folder kalau belum ada ===
 os.makedirs(save_dir, exist_ok=True)
